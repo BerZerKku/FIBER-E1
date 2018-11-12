@@ -6,3 +6,14 @@ rep/
 *,2*
 *,3*
 *autosave*.*
+*.*bak
+*.*original
+*.DBK
+*.tag
+*.log
+*.dat
+
+devices.dml
+.rtcomp
+eco.txt
+pxlBA.txt
